@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>M3lem Tools Directory</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">M3lem Tools</div>
+    <nav>
+      <select id="category-select">
+        <option value="AI Writing">AI Writing</option>
+        <option value="SEO Tools">SEO Tools</option>
+        <option value="Productivity">Productivity</option>
+        <option value="Web Development">Web Development</option>
+      </select>
+      <input type="text" id="search-input" placeholder="Search tools…">
+      <label><input type="checkbox" class="price-filter" value="Free" checked> Free</label>
+      <label><input type="checkbox" class="price-filter" value="Paid" checked> Paid</label>
+    </nav>
+  </header>
+
+  <main>
+    <section id="tools-section">
+      <h2 id="category-title">AI Writing Tools</h2>
+      <table id="tools-table">
+        <thead>
+          <tr>
+            <th>Logo</th><th>Name</th><th>Description</th><th>Pricing</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </section>
+
+    <aside id="newsletter">
+      <h3>Subscribe for updates</h3>
+      <form>
+        <input type="email" placeholder="Your email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+    </aside>
+  </main>
+
+  <footer>&copy; 2025 M3lem Tools</footer>
+  <script src="scripts.js"></script>
+</body>
+</html>
