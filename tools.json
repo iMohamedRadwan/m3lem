@@ -1,0 +1,280 @@
+{
+  "AI Writing": [
+    {
+      "name": "Grammarly",
+      "description": "AI-powered grammar, spelling & style checker with suggestions.",
+      "pricing": "Free, Paid",
+      "link": "https://www.grammarly.com",
+      "logo": "images/grammarly-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Paid","Writing"] 
+    },
+    {
+      "name": "Jasper",
+      "description": "AI content generation platform for blogs, ads, emails, more.",
+      "pricing": "Paid",
+      "link": "https://www.jasper.ai",
+      "logo": "images/jasper-logo.png",
+      "affiliate": "",
+      "tags": ["Paid","AI","Writing"]
+    },
+    {
+      "name": "Copy.ai",
+      "description": "Templates for blogs, ads, social media & brainstorming.",
+      "pricing": "Free, Paid",
+      "link": "https://www.copy.ai",
+      "logo": "images/copyai-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Paid","Writing"]
+    },
+    {
+      "name": "Writesonic",
+      "description": "Short-form & long-form AI copywriting assistant.",
+      "pricing": "Free, Paid",
+      "link": "https://writesonic.com",
+      "logo": "images/writesonic-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Paid","Writing"]
+    },
+    {
+      "name": "Surfer AI",
+      "description": "Combines AI writing with on-page SEO recommendations.",
+      "pricing": "Paid",
+      "link": "https://surferseo.com/ai",
+      "logo": "images/surfer-ai-logo.png",
+      "affiliate": "",
+      "tags": ["Paid","AI","SEO","Writing"]
+    },
+    {
+      "name": "Anyword",
+      "description": "Generates marketing copy optimized for conversion.",
+      "pricing": "Paid",
+      "link": "https://anyword.com",
+      "logo": "images/anyword-logo.png",
+      "affiliate": "",
+      "tags": ["Paid","AI","Marketing"]
+    }
+  ],
+  "SEO Tools": [
+    {
+      "name": "Semrush",
+      "description": "All-in-one platform for keyword research, backlinks & analytics.",
+      "pricing": "Paid",
+      "link": "https://semrush.com",
+      "logo": "images/semrush-logo.png",
+      "affiliate": "",
+      "tags": ["Paid","SEO"] 
+    },
+    {
+      "name": "Ahrefs",
+      "description": "Backlink analysis, keyword research & competitor spying.",
+      "pricing": "Paid",
+      "link": "https://ahrefs.com",
+      "logo": "images/ahrefs-logo.png",
+      "affiliate": "",
+      "tags": ["Paid","SEO"]
+    },
+    {
+      "name": "Moz Pro",
+      "description": "Keyword explorer, rank tracking & on-page grader.",
+      "pricing": "Paid",
+      "link": "https://moz.com",
+      "logo": "images/moz-logo.png",
+      "affiliate": "",
+      "tags": ["Paid","SEO"]
+    },
+    {
+      "name": "Google Search Console",
+      "description": "Free insights into your Google ranking & indexing.",
+      "pricing": "Free",
+      "link": "https://search.google.com/search-console",
+      "logo": "images/gsc-logo.png",
+      "affiliate": "",
+      "tags": ["Free","SEO"]
+    },
+    {
+      "name": "Screaming Frog",
+      "description": "Website crawler for on-page audits & technical SEO.",
+      "pricing": "Free, Paid",
+      "link": "https://screamingfrog.co.uk/seo-spider",
+      "logo": "images/screamingfrog-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Paid","SEO"]
+    },
+    {
+      "name": "Yoast SEO",
+      "description": "WordPress plugin for on-page optimization.",
+      "pricing": "Free, Paid",
+      "link": "https://yoast.com/wordpress/plugins/seo",
+      "logo": "images/yoast-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Paid","SEO","WordPress"]
+    },
+    {
+      "name": "Mangools",
+      "description": "Bundle of KWFinder, SERPChecker, LinkMiner & more.",
+      "pricing": "Paid",
+      "link": "https://mangools.com",
+      "logo": "images/mangools-logo.png",
+      "affiliate": "",
+      "tags": ["Paid","SEO"]
+    },
+    {
+      "name": "Keyword Planner",
+      "description": "Google Ads tool for free keyword volume & forecasts.",
+      "pricing": "Free",
+      "link": "https://ads.google.com/home/tools/keyword-planner",
+      "logo": "images/keywordplanner-logo.png",
+      "affiliate": "",
+      "tags": ["Free","SEO"]
+    }
+  ],
+  "Productivity": [
+    {
+      "name": "Notion",
+      "description": "All-in-one workspace: notes, databases, kanban & more.",
+      "pricing": "Free, Paid",
+      "link": "https://notion.so",
+      "logo": "images/notion-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Paid","Notes","Collaboration"]
+    },
+    {
+      "name": "Asana",
+      "description": "Project & task management for teams.",
+      "pricing": "Free, Paid",
+      "link": "https://asana.com",
+      "logo": "images/asana-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Paid","Projects"]
+    },
+    {
+      "name": "Wrike",
+      "description": "Proofing, reporting & resource management.",
+      "pricing": "Paid",
+      "link": "https://wrike.com",
+      "logo": "images/wrike-logo.png",
+      "affiliate": "",
+      "tags": ["Paid","Projects"]
+    },
+    {
+      "name": "Guru",
+      "description": "Instant knowledge-base cards in your workflow.",
+      "pricing": "Paid",
+      "link": "https://getguru.com",
+      "logo": "images/guru-logo.png",
+      "affiliate": "",
+      "tags": ["Paid","Knowledge"]
+    },
+    {
+      "name": "WebWork Time Tracker",
+      "description": "Automatic time tracking with screenshots.",
+      "pricing": "Paid",
+      "link": "https://webwork-tracker.com",
+      "logo": "images/webwork-logo.png",
+      "affiliate": "",
+      "tags": ["Paid","Time"]
+    },
+    {
+      "name": "Evernote",
+      "description": "Cross-platform note-taking with web-clipper.",
+      "pricing": "Free, Paid",
+      "link": "https://evernote.com",
+      "logo": "images/evernote-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Paid","Notes"]
+    },
+    {
+      "name": "Google Calendar",
+      "description": "Free scheduling & reminders integrated with Gmail.",
+      "pricing": "Free",
+      "link": "https://calendar.google.com",
+      "logo": "images/gcal-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Calendar"]
+    },
+    {
+      "name": "Trello",
+      "description": "Kanban boards for task organization & workflows.",
+      "pricing": "Free, Paid",
+      "link": "https://trello.com",
+      "logo": "images/trello-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Paid","Boards"]
+    }
+  ],
+  "Web Development": [
+    {
+      "name": "React",
+      "description": "UI library for building fast, component-based apps.",
+      "pricing": "Free",
+      "link": "https://reactjs.org",
+      "logo": "images/react-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Frontend"] 
+    },
+    {
+      "name": "Vue.js",
+      "description": "Progressive framework for building UI on the web.",
+      "pricing": "Free",
+      "link": "https://vuejs.org",
+      "logo": "images/vue-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Frontend"]
+    },
+    {
+      "name": "AngularJS",
+      "description": "Framework for building dynamic single-page apps.",
+      "pricing": "Free",
+      "link": "https://angular.io",
+      "logo": "images/angular-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Frontend"]
+    },
+    {
+      "name": "Bootstrap",
+      "description": "Responsive CSS framework with pre-built components.",
+      "pricing": "Free",
+      "link": "https://getbootstrap.com",
+      "logo": "images/bootstrap-logo.png",
+      "affiliate": "",
+      "tags": ["Free","CSS"]
+    },
+    {
+      "name": "Tailwind CSS",
+      "description": "Utility-first CSS for rapid UI development.",
+      "pricing": "Free",
+      "link": "https://tailwindcss.com",
+      "logo": "images/tailwind-logo.png",
+      "affiliate": "",
+      "tags": ["Free","CSS"]
+    },
+    {
+      "name": "Visual Studio Code",
+      "description": "Lightweight, powerful code editor by Microsoft.",
+      "pricing": "Free",
+      "link": "https://code.visualstudio.com",
+      "logo": "images/vscode-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Editor"]
+    },
+    {
+      "name": "GitHub",
+      "description": "Code hosting with version control & collaboration.",
+      "pricing": "Free, Paid",
+      "link": "https://github.com",
+      "logo": "images/github-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Paid","VCS"]
+    },
+    {
+      "name": "Postman",
+      "description": "API development, testing & documentation tool.",
+      "pricing": "Free, Paid",
+      "link": "https://postman.com",
+      "logo": "images/postman-logo.png",
+      "affiliate": "",
+      "tags": ["Free","Paid","API"]
+    }
+  ]
+}
